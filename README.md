@@ -1,75 +1,132 @@
-# Nuxt Minimal Starter
+# Reflection
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+> **Understand yourself, one reflection at a time.**
 
-## Setup
+Reflection is an AI-powered journaling application that helps you uncover patterns in your thoughts, mood, energy, and daily experiences. Instead of simply storing journal entries, Reflection turns them into meaningful insights that help you grow over time.
 
-Make sure to install dependencies:
+## ✨ Features
 
-```bash
-# npm
-npm install
+### 📝 Daily Reflection
 
-# pnpm
-pnpm install
+Answer a few thoughtful questions each day to capture what truly mattered.
 
-# yarn
-yarn install
+* Meaningful daily prompts
+* Free-form journaling
+* Mood tracking
+* Energy tracking
 
-# bun
-bun install
-```
+### 🤖 AI Insights
 
-## Development Server
+Receive personalized feedback after every reflection.
 
-Start the development server on `http://localhost:3000`:
+* Daily summaries
+* Actionable suggestions
+* Pattern recognition
+* Personalized recommendations
 
-```bash
-# npm
-npm run dev
+### 📈 Long-Term Pattern Detection
 
-# pnpm
-pnpm dev
+Reflection analyzes your journal over weeks and months to identify recurring behaviors and emotional trends.
 
-# yarn
-yarn dev
+Examples:
 
-# bun
-bun run dev
-```
+* "You tend to feel happier after exercising."
+* "Your most productive days follow a full night's sleep."
+* "Stress appears most often after long meetings."
 
-## Production
+### 📅 Journal History
 
-Build the application for production:
+Browse and search previous reflections.
 
-```bash
-# npm
-npm run build
+* Timeline view
+* Search entries
+* Filter by mood
+* Edit or delete reflections
 
-# pnpm
-pnpm build
+### 🔥 Streaks & Progress
 
-# yarn
-yarn build
+Stay consistent without making journaling feel like a game.
 
-# bun
-bun run build
-```
+* Daily streaks
+* Reflection count
+* Weekly summaries
+* Monthly insights
 
-Locally preview production build:
+---
 
-```bash
-# npm
-npm run preview
+## 🚀 Why Reflection?
 
-# pnpm
-pnpm preview
+Most journaling apps help you **record your thoughts**.
 
-# yarn
-yarn preview
+Reflection helps you **understand them**.
 
-# bun
-bun run preview
-```
+By combining daily reflections with AI, Reflection transforms ordinary journal entries into meaningful patterns that help you make better decisions, improve your habits, and gain greater self-awareness.
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+---
+
+## 🖥️ Tech Stack
+
+* Vue
+* TypeScript
+* Supabase
+* OpenAI API (or compatible AI provider)
+* SCSS
+* Vite
+
+---
+
+## 🗺️ Roadmap
+
+### Phase 1
+
+* [ ] Landing page
+* [ ] Authentication
+* [ ] Dashboard layout
+* [ ] Daily reflection page
+* [ ] Save journal entries
+
+### Phase 2
+
+* [ ] Mood tracking
+* [ ] Energy tracking
+* [ ] Journal history
+* [ ] Edit/Delete reflections
+
+### Phase 3
+
+* [ ] AI daily insights
+* [ ] Weekly AI summaries
+* [ ] Pattern detection
+* [ ] Reflection search
+
+### Phase 4
+
+* [ ] Calendar view
+* [ ] Reminder notifications
+* [ ] Export journal
+* [ ] Dark mode
+
+### Phase 5
+
+* [ ] Premium subscription
+* [ ] Advanced AI coaching
+* [ ] Adaptive reflection prompts
+* [ ] Long-term analytics
+
+---
+
+## 💡 Vision
+
+Reflection is designed to become a personal AI companion that grows with you over time.
+
+Rather than acting as a simple journal, it helps users discover patterns behind their emotions, habits, productivity, and overall well-being.
+
+The goal is simple:
+
+> **Help people understand themselves a little better every day.**
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
